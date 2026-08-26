@@ -26,7 +26,7 @@ The analysis was executed using **PostgreSQL**, employing a structured querying 
 ---
 
 ## Key Findings & Insights
-The analysis script systematically addresses 16 core business inquiries:
+The analysis script systematically addresses 13 core business inquiries:
 
 1. **Top Industry Identification (2019–2022):** Determined the highest-grossing industries on a monthly basis for four consecutive years using window-based ranking (`RANK()`).
 2. **Business Contribution Across Sectors:** Analysed which specific types of commercial establishments generate the highest cumulative sales volume.
