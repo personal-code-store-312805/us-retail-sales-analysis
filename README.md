@@ -25,8 +25,7 @@ The analysis was executed using **PostgreSQL**, employing a structured querying 
 
 ---
 
-## Key Business Questions Answered
-
+## Key Findings & Insights
 The analysis script systematically addresses 16 core business inquiries:
 
 1. **Top Industry Identification (2019–2022):** Determined the highest-grossing industries on a monthly basis for four consecutive years using window-based ranking (`RANK()`).
@@ -42,5 +41,7 @@ The analysis script systematically addresses 16 core business inquiries:
 11. **Apparel Sales Ratio Analysis:** Evaluated the annual spending ratio between women's and men's retail clothing lines.
 12. **Cumulative Year-to-Date (YTD) Revenue Tracking:** Built a running YTD sales metric across months (2019–2022) using correlated subqueries.
 13. **Month-over-Month (MoM) Apparel Volatility (2022):** Tracked short-term growth percentage shifts in women's apparel retail.
+
+> **Note:** The exported tabular outputs and CSV data for these analytical queries are archived in the [`query_results/`](./query_results/) directory.
 
 ---
