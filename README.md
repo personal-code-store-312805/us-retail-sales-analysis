@@ -1,4 +1,4 @@
-# Retail & Food Services Sales Analysis (SQL)
+# Retail & Food Services Sales Analysis
 
 ## Introduction
 This repository contains an exploratory data analysis (EDA) project focusing on the US retail and food services sector. By leveraging advanced SQL techniques, this project examines multi-year retail performance, seasonal sales fluctuations, market share distribution, and growth trajectories across various commercial categories. 
